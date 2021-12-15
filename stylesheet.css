@@ -1,0 +1,26 @@
+body {
+    background-color: #76abb9;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+footer{
+    background-color: white;
+    position:absolute bottom;
+    width: 100%;
+    bottom:0;
+    padding: 10px 10px 0px 10px;
+    margin: 0 0 0 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+nav{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.jumbotron {
+    color: whitesmoke;
+    text-align: center;
+    text-shadow:5px black;
+    background-image: url("images/JochemVerantwoordelijke-min-min.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+  }
