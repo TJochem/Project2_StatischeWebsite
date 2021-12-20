@@ -26,6 +26,7 @@ nav{
   }
   .rond{
       border-radius: 50%;
+      width: 60%;
   }
   
   .btn {
@@ -87,4 +88,12 @@ nav{
 }
 .center{
 text-align: center;
+}
+
+
+
+@media (min-width: 320px){
+  iframe{
+    width: 100%;
+  }
 }
